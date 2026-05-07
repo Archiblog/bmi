@@ -6,10 +6,12 @@ Live digital reconstruction and progressive SVG study of Cedric Price’s BMI dr
 
 This repository records the ongoing production of research facsimiles, interpretive SVG drawings, and methodological reflections.
 
-Portal Frame Study — Primary Structure (v1)
-Portal Frame Study
+## Portal Frame Study — Primary Structure (v1)
 
-Initial placeholder showing a reduced interpretation of the primary structural system.
+![Portal Frame Study](drawings/png/preview/portal-frame-study-v1.png)
+
+
+Initial placeholder showing a reduced interpretation of the primary structural system.  
 Primary structure indicated in pink; grid shown for context.
 
 
