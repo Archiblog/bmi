@@ -3,7 +3,6 @@
 [Home](https://archiblog.github.io) | [Fun Palace](https://archiblog.github.io/fun-palace) | [PTb](https://archiblog.github.io/ptb) | [BMI](https://archiblog.github.io/bmi/) | [Edukit](https://archiblog.github.io/edukit/) | [Repos](https://github.com/Archiblog/?tab=repositories) | [Biography](https://github.com/Archiblog) 
 
 ![Portal Frame Study](drawings/png/preview/portal-frame-study-v1.png)
-
 * Initial placeholder showing a reduced interpretation of the primary structural system.
 
 Primary structure indicated in pink; grid shown for context.
